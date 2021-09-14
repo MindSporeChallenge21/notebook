@@ -1,7 +1,6 @@
 # Related Resources for Participants
 
 ## Jupyter Notebook for MindSpore Fundamental Training
-- Date: 16 SEP 2021 (THU)
 - Time: 2:30 pm- 4:30 pm
 - Location: AI PLUG Training Room, 2/F, Building 19W, Hong Kong Science Park
 - Content:

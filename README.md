@@ -7,8 +7,8 @@
   -  MindSpore basic training, building in-depth learning networks.
   - Learn how to utilize the AI computing resources on Huawei Cloud for model training and inferencing.
 - Resources:
-  - [Beginner Jupyter Notebook Tutorial](https://github.com/MindSporeChallenge21/resources/releases/download/V1.0/MindSpore.20Challenge.20Tutorial.20Beginner.ipynb) [60.2 KB]
-  - [Intermediate Jupyter Notebook Tutorial](https://github.com/MindSporeChallenge21/resources/releases/download/V1.0/MindSpore.20Challenge.20Tutorial.20Intermediate.ipynb) [401 KB]
+  - [Beginner Jupyter Notebook Tutorial](https://github.com/MindSporeChallenge21/resources/releases/download/V1.0/MindSpore.Challenge.Tutorial.Beginner.ipynb) [60.2 KB]
+  - [Intermediate Jupyter Notebook Tutorial](https://github.com/MindSporeChallenge21/resources/releases/download/V1.0/MindSpore.Challenge.Tutorial.Intermediate.ipynb) [401 KB]
 
 
 ## Tutorial Slides

@@ -14,4 +14,6 @@
 ## Tutorial Slides
 - [MSC21 Introduction and MindSpore Slides](https://github.com/MindSporeChallenge21/resources/raw/main/MSC21%20Introduction%20and%20MindSpore%20Tutorial.pdf) [3.4 MB]
 - [Model Training & Evaluation Guideline](https://github.com/MindSporeChallenge21/resources/raw/main/Model%20Training%20%26%20Evaluation%20Guideline.pptx) [3.4 MB]
+- [Pathology Diagnosis](https://github.com/MindSporeChallenge21/resources/blob/main/PathologyDiagnosis20210920.pptx)
+- [Explainable Pathology AI](https://github.com/MindSporeChallenge21/resources/blob/main/A%20tutorial%20on%20explainable%20pathology%20ai.pptx)
 
